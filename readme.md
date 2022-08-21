@@ -69,4 +69,4 @@ Hii guys this is the Shopify Home page Clone that I have made again to practice 
 
 ## Deployed link
 
-[CLICK ME ](https://shopifyresponsive.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/12f899b5-55f8-4fe1-bdec-0a228426fff1/deploy-status)](https://shopifyresponsive.netlify.app/)
