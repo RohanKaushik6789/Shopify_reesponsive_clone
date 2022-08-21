@@ -39,7 +39,7 @@ Hii guys this is the Shopify Home page Clone that I have made again to practice 
 
 ## Time Spent on this project
 
-- This project tooks my 16 hrs ...
+- This project tooks my 20 hrs ...
 
 ## Screenshots
 
